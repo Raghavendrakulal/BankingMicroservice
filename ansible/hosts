@@ -1,4 +1,4 @@
 [webservers]
-10.10.25.161 ansible_user=raghavendra ansible_ssh_pass=raghavendra ansible_become_pass=raghavendra
+192.168.180.9 ansible_user=raghavendra ansible_ssh_pass=raghavendra ansible_become_pass=raghavendra
 
 
